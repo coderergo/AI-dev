@@ -27,7 +27,7 @@ spring:
   ai:
     # 阿里灵积
     dash-scope:
-      api-key: sk-
+      api-key:
       chat:
         options:
           incremental-output: false
@@ -51,10 +51,10 @@ spring:
       api-key: xxx
     # 智谱清言 同样
     zhipuai:
-      api-key: .yHTD1ggWQ41dSyXE
+      api-key:
     # kimi 同样
     moonshot:
-      api-key: sk-
+      api-key:
     ollama:
       # 填写模型所在的地址
       base-url: http://localhost:11438
